@@ -1,4 +1,4 @@
-# 🛡️ Task-04 – Simple Keylogger | Prodigy InfoTech Cybersecurity Internship
+# 🛡️ Task-04 – Simple Keylogger 
 
 I developed a basic **Keylogger in Python** using the `pynput` module that logs every key pressed and stores it in a local file.  
 This tool is intended strictly for **educational purposes** and demonstrates basic keyboard input tracking in Python
